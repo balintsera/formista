@@ -2,7 +2,7 @@
     "name": "evista/formista",
     "description": "A light form API",
     "keywords": [
-        "league",
+        "form",
         "formista"
     ],
     "homepage": "https://github.com/serabalint/formista",
@@ -11,7 +11,7 @@
         {
             "name": "Balint Sera",
             "email": "sera.balint@e-vista.hu",
-            "homepage": "evista-agency.com",
+            "homepage": "http://evista-agency.com",
             "role": "Developer"
         }
     ],
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\Skeleton\\": "src"
+            "Evista\\Formista\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\Skeleton\\Test\\": "tests"
+            "Evista\\Formista\\Test\\": "tests"
         }
     },
     "scripts": {
