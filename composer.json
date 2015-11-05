@@ -1,17 +1,17 @@
 {
-    "name": "league/:package_name",
-    "description": ":package_description",
+    "name": "evista/formista",
+    "description": "A light form API",
     "keywords": [
         "league",
-        ":package_name"
+        "formista"
     ],
-    "homepage": "https://github.com/thephpleague/:package_name",
+    "homepage": "https://github.com/serabalint/formista",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Balint Sera",
+            "email": "sera.balint@e-vista.hu",
+            "homepage": "evista-agency.com",
             "role": "Developer"
         }
     ],
